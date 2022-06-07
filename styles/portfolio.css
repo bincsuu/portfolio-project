@@ -1,3 +1,6 @@
+body {
+}
+
 .hero {
   margin: 30px;
   text-align: center;
@@ -24,4 +27,28 @@ h1 {
 .contact-button {
   border-color: grey;
   background-color: #dde0ab;
+}
+
+.content {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.homepage-image-two {
+  height: 400px;
+}
+
+.homepage-image-three {
+  height: 400px;
+}
+
+.byme {
+  text-align: center;
+  font-family: monospace;
+  margin-top: 50px;
+}
+
+.code-link {
+  color: black;
 }
