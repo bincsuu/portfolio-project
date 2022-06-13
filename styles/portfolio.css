@@ -46,9 +46,28 @@ h1 {
 .byme {
   text-align: center;
   font-family: monospace;
+  font-size: 12px;
   margin-top: 50px;
+  margin-bottom: 10px;
 }
 
 .code-link {
   color: black;
+}
+
+.about-me {
+}
+
+.about-image-one {
+  height: 400px;
+}
+
+.about-first-row {
+  max-width: 80%;
+  margin-right: 0%;
+  margin-left: 10%;
+}
+
+.paragraph-one {
+  max-width: 35%;
 }
