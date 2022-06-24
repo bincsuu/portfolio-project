@@ -1,6 +1,10 @@
 body {
 }
 
+.navbar {
+  background-color: #feffdf;
+}
+
 .hero {
   margin: 30px;
   text-align: center;
@@ -32,6 +36,7 @@ h2 {
 .contact-button {
   border-color: grey;
   background-color: #dde0ab;
+  margin-top: 15px;
 }
 
 .content {
@@ -77,5 +82,9 @@ img {
 
   .about-first-row {
     margin-left: 7%;
+  }
+
+  .about-me {
+    text-align: center;
   }
 }
